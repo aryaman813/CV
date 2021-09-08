@@ -1,0 +1,23 @@
+body {
+  background-color: #FFEEDB;
+}
+
+hr {
+  width: 30px;
+  border: 5px dotted;
+  border-style:none none dotted none;
+  color: grey;
+
+}
+
+h1 {
+  color: #AC0D0D
+}
+
+h3 {
+  color: #AC0D0D
+}
+
+'★'{
+  color: #AC0D0D
+}
